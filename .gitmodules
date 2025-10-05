@@ -1,3 +1,9 @@
 [submodule "projects/chat"]
 	path = projects/chat
 	url = https://github.com/aidosgal/chat
+[submodule "projects/db"]
+	path = projects/db
+	url = https://github.com/aidosgal/db
+[submodule "projects/zet"]
+	path = projects/zet
+	url = https://github.com/aidosgal/zet
