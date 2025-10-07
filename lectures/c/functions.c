@@ -10,7 +10,7 @@ void birthday(person* p) {
     Another way
     (*p).age++;
   */
-  p->age++;
+  p->age++; 
 }
 
 int main() {
